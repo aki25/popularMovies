@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sorting_options">
+        <item>@string/sort_option_pop</item>
+        <item>@string/sort_option_rating</item>
+        <item>Favourites</item>
+    </string-array>
+    <string-array name="pref_sorting_values">
+        <item>@string/sort_value_pop</item>
+        <item>@string/sort_value_rating</item>
+        <item>favourites</item>
+    </string-array>
+</resources>
